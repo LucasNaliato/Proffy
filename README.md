@@ -2,10 +2,6 @@
   <img src="/public/images/logo.svg" alt="Proffy" />
 </p>
 
-<p align="center">
-  <b>Conecte pessoas a orfanatos e traga felicidade para as crianças.</b>
-</p>
-
 <br />
 
 - [Sobre](#-sobre-o-projeto)
@@ -20,7 +16,7 @@ O <strong>Proffy</strong> é uma aplicação Web para conectar pessoas que quere
 
 Essa aplicação foi construída na <strong>Next Level Week 2.0</strong> feita pela [Rocketseat](https://rocketseat.com.br/).
 
-<img src="/public/images/layout_proffy.png" alt="Layout Proffy">
+<img src="/public/images/layout_proffy.PNG" alt="Layout Proffy">
 
 <a id="-como-executar-o-projeto"></a>
 
